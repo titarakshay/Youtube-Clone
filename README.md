@@ -1,18 +1,9 @@
-Hello, My Friends  
-Thank you for having interest in this repository ! 
+# A Youtube application clone
 
-To use this application, 
+## In this repository I have created an youtube app using MERN Stack
 
-1. make dev.js file inside config folder 
-2. put mongoDB info into dev.js file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
-4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
-
-
-If you have problem, feel free to ask me ^^ 
-
-You can watch the tutorial for this app.
-
-https://www.youtube.com/channel/UCFyXA9x8lpL3EYWeYhj4C4Q?view_as=subscriber
-
+In this we have used languages such as a HTML/CSS, JavaScript,
+Frameworks like reactjs for frontend , Nodejs for backend
+We have also used redux for state management purpose.
+ant-desgin librabry used for ui purpose
 
